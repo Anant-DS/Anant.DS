@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Anant Singh</h1>
+<h1 align="center">Hi, I'm Anant Singh</h1>
 <h3 align="center">I am a First year Student [B-tech Data science]</h3>
 <img src="https://komarev.com/ghpvc/?username=a-glitch-hub&label=Profile%20views&color=0e75b6&style=flat" alt="a-glitch-hub" /> </p>
 
